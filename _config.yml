@@ -41,3 +41,5 @@ defaults:
       type: posts
     values:
       tags: Other
+
+future: false
