@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="/chopped-puzzles/feed.xml" rel="self" type="application/atom+xml" /><link href="/chopped-puzzles/" rel="alternate" type="text/html" /><updated>2023-12-06T06:34:04+00:00</updated><id>/chopped-puzzles/feed.xml</id><title type="html">Chopped Puzzles 🍕</title><subtitle>Puzzles.</subtitle><author><name>Ethan</name></author><entry><title type="html">Logic Puzzle 39 - Angle Loop</title><link href="/chopped-puzzles/2023/11/24/puzzle39.html" rel="alternate" type="text/html" title="Logic Puzzle 39 - Angle Loop" /><published>2023-11-24T13:00:00+00:00</published><updated>2023-11-24T13:00:00+00:00</updated><id>/chopped-puzzles/2023/11/24/puzzle39</id><content type="html" xml:base="/chopped-puzzles/2023/11/24/puzzle39.html"><![CDATA[<p>⚠️⚠️⚠️</p>
+
+<p>Penpa+ has disabled external scripts so these tricks no longer work on the default Penpa+. <a href="https://ethannp.github.io/dangerous-penpa-edit/docs/index.html">I now host my own penpa fork, dangerous-penpa-edit</a> that will not be maintained but allows external scripts. <b>Links on this page will send you to my fork, dangerous-penpa-edit</b>.</p>
+<hr />
+
+<p>This is not a completely vanilla Angle Loop. It uses some Penpa+ hacks.</p>
+
+<p>Note: This puzzle is not solvable on mobile.</p>
+
+<p><a href="https://ethannp.github.io/dangerous-penpa-edit/docs/index.html#m=solve&amp;p=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&amp;a=RcxBCkAhCIThu7T+F5lKdRbp/teol8QDFx/OMBGLKK2hEyl8MrnSiuVPBa+pifUnH1en/tTxTG2kzvZ/awM=" target="_blank">Penpa+</a></p>
+
+<details style="margin-bottom: 20px">
+<summary>Minor hint</summary>
+You have limited vision in this puzzle.
+</details>
+
+<details style="margin-bottom: 20px">
+<summary>Slightly bigger hint</summary>
+Why are not all borders shown / how can you get more vision?
+</details>
+
+<details style="margin-bottom: 20px">
+<summary>Giveaway</summary>
+Resize your browser.
+</details>
+<hr />
+
+<details style="margin-bottom: 20px">
+<summary>The Coding Details</summary>
+I was inspired by these <a href="https://twitter.com/wesbos/status/1727730566143803522" target="_blank">multi-browser demos</a> that have been popping up on Twitter/X. <a href="/chopped-puzzles/assets/angleloop/angleloop1.js" target="_blank">Here's the source code!</a> There isn't anything too special here, I have just taken advantage of the <code>window.screenX</code> and <code>window.screenY</code> attributes.
+</details>]]></content><author><name>Ethan</name></author><category term="Logic Puzzle" /><category term="Coding" /><summary type="html"><![CDATA[⚠️⚠️⚠️]]></summary></entry><entry><title type="html">More Penpa+ Hacks</title><link href="/chopped-puzzles/2023/11/05/maze.html" rel="alternate" type="text/html" title="More Penpa+ Hacks" /><published>2023-11-05T14:00:00+00:00</published><updated>2023-11-05T14:00:00+00:00</updated><id>/chopped-puzzles/2023/11/05/maze</id><content type="html" xml:base="/chopped-puzzles/2023/11/05/maze.html"><![CDATA[<p>⚠️⚠️⚠️</p>
+
+<p>Penpa+ has disabled external scripts so these tricks no longer work on the default Penpa+. <a href="https://ethannp.github.io/dangerous-penpa-edit/docs/index.html">I now host my own penpa fork, dangerous-penpa-edit</a> that will not be maintained but allows external scripts. <b>Links on this page will send you to my fork, dangerous-penpa-edit</b>.</p>
+<hr />
+
+<p>I recommend checking out <a href="/chopped-puzzles/2023/10/30/snake.html">my previous article about Penpa+ hacks</a> first.</p>
+
+<p>I’ve made another couple of cursed discoveries of what one can do with Penpa+. Thw two things I want to talk about in this post are a collaborative r/Place copy in Penpa+ and <a href="https://ethannp.github.io/dangerous-penpa-edit/docs/index.html#m=solve&amp;p=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&amp;a=VcsxDsAwCEPRu3jOUEKA9iwo979GYm+V0BuMfjfMCgM2H+omp3S56NISSVNLxtUZqfHvEiyKj3qxR/9uHw==" target="\_blank">a Maze game</a>. I don’t want to share the actual link for the Penpa+ Place to avoid griefing the canvas, but here’s a couple pictures of its development.</p>
+
+<div id="gallery" style="max-width: 500px; height: 550px;">
+<button onclick="plusDivs(-1)" style="width: 30px;height: 30px; font-size: 20px;line-height: 20px;">❮</button>
+<button onclick="plusDivs(1)" style="width: 30px;height: 30px; font-size: 20px;line-height: 20px;">❯</button>
+<span id="num">1/5</span>
+<img class="slides" src="/chopped-puzzles/assets/maze/penpaplace1.png" />
+<img class="slides" src="/chopped-puzzles/assets/maze/penpaplace2.png" />
+<img class="slides" src="/chopped-puzzles/assets/maze/penpaplace3.png" />
+<img class="slides" src="/chopped-puzzles/assets/maze/penpaplace4.png" />
+<img class="slides" src="/chopped-puzzles/assets/maze/penpaplace5.png" />
+</div>
+<script>
+var slideIndex = 1;showDivs(slideIndex);
+function plusDivs(n) {showDivs(slideIndex += n);}
+function showDivs(n) {
+var i;
+var x = document.getElementsByClassName("slides");
+if (n > x.length) {slideIndex = 1}
+if (n < 1) {slideIndex = x.length}
+for (i = 0; i < x.length; i++) {x[i].style.display = "none";}
+x[slideIndex-1].style.display = "block";
+document.getElementById("num").innerHTML = slideIndex + "/5"
+}
+</script>
+
+<p>I wanted to make a post on how I made these two things.</p>
+
+<h1 id="penpa-place">Penpa+ Place</h1>
+
+<p>After Snake, the next thing I wanted to experiment with was multiplayer compatibility. I figured out how to load code from other sources which allowed me use Firebase’s Realtime Database, a free cloud-hosted database, which I’ve had experience using before. I read the surface elements the user inputs and add them to the database (there’s no authentication here, which is why I don’t want to make the original link public). I also have a listener which copies down any updates from the database back to the grid. I’ve also figured out how to attach code in Jekyll so you can see the <a href="/chopped-puzzles/assets/maze/penpa-place.js">source code here</a> 🙂</p>
+
+<h1 id="maze">Maze</h1>
+
+<p>Of course the natural thing to try to port into Penpa+ is Doom. This seemed very intimidating to me, so I wanted to get some practice working with 3d first (no promises on Doom ever happening though). I’ve always wanted to implement a raycaster, so I followed <a href="https://www.youtube.com/watch?v=gYRrGTC7GtA" target="\_blank">3DSage’s Raycasting Tutorial</a>. Most of the raycasting code is from this tutorial, with some modifications for Penpa+. Here’s my <a href="/chopped-puzzles/assets/maze/raycast.js">source code for the maze</a>. I wanted to share some hacks/tips I discovered while creating this.</p>
+
+<p>First, the win message. You don’t need answer checking mode to be enabled, but I keep  it on so people aren’t jumpscared by the message &amp; are expecting an end. The code is:</p>
+
+<pre><code>let message = document.getElementById("custom_message").value;
+if (message == "" || message.includes("http-equiv=")) {
+    message = Identity.solveDefaultMessage;
+}
+setTimeout(() =&gt; {
+    Swal.fire({
+        title: Identity.solveTitle ? "&lt;h3 class=wish style=color:white&gt;" + Identity.solveTitle + "&lt;/h3&gt;" : undefined,
+        html: "&lt;h2 class=`wish` style=color:white&gt;" + message + "&lt;/h2&gt;",
+        background: "url(js/images/new_year.jpg)",
+        icon: "success",
+        confirmButtonText: Identity.solveOKButtonText,
+    })
+}, 20);
+sw_timer.pause();
+</code></pre>
+<p>I should probably specify that this code just makes the congratulations message appear; I’m not checking against any pre-loaded solution.</p>
+
+<p>Secondly, grid resizing. By default, the minimum ‘display size’ (i.e., the size of each box) of the grid is 12 units and if you try setting it lower, it will give an error message. Even if you programatically change it, it won’t allow you to have a display size of less than 12! That is, unless you override the method that stops you.</p>
+<pre><code>Object.defineProperty(UserSettings, "displaysize", {
+    set(newValue) {
+        this._displaysize = newValue;
+        redraw_grid();
+    }
+});
+</code></pre>
+<p>You can also dynamically resize your grid (the dimensions). I suspect this could lead to some puzzly ideas. See the maze source code for the full implementation.</p>
+
+<p>Lastly, WASD/keyboard events. I added an handler for when keys were pressed/lifted:</p>
+<pre><code>window.onkeyup = function (e) {
+    pressedKeys[e.keyCode] = false;
+}
+window.onkeydown = function (e) {
+    pressedKeys[e.keyCode] = true;
+}
+</code></pre>
+<p>then read from pressedKeys to tell of a key was pressed. A helpful website to get JS keycode info <a href="https://www.toptal.com/developers/keycode" target="_blank">can be found here</a>. For mobile support, I read where shaded cells are in the grid when the user drags on the board and determined which diagonal quadrant of the board the shaded cell was.</p>
+
+<p>It’s still pretty easy to hack into the code and break it, but to disable the easiest way in, I removed the “resize grid” button: <code>document.getElementById("newsize").remove();</code>😉</p>
+
+<h1 id="ending-thoughts">Ending thoughts</h1>
+<p>Penpa+ has been really fun to play around with :D</p>
+
+<p>(I think) I pretty much understand how the surface mode grid works, but I still have no idea how the other modes (ex. edges, walls, etc.) work in terms of indices, nor non-square grids. I might play around with these modes more or try to make some creative puzzles taking advantage of this ‘bug’.</p>
+
+<p>I’ve seen a couple of Penpa+ hack creations that are actually puzzly, such as this <a href="https://ethannp.github.io/dangerous-penpa-edit/docs/index.html#m=solve&amp;p=tZbxb9o4FMd/56/wfDqVXn0oCaFA2p7UsvV00rbbHT1NVYSQCQZyNTGzk9EGsb99zw4TBN5+Od0U8vLy8cN+dvJ9sflUcC1Yl/kea/eYx3w42l7IQr/H2t2+O73d8ZDmUkRkmPO8EOQD10/X6XJOjE5unonJX6S4OZumZiX5S5SpTJwRMForfUPOyKzIkjxVGUmk4Lp5TjZkpjRpSpGTlNyQ4Aou16QPl4uL8w3Zt/4Lrd4VXK5JFy6udVW0VsWYt0yhZzwRcfqL75MLiLkgwaiKhxAtppqvm+dXZLslicqMkqIl1bxJFym1lBAj8j+yXOjPXDZdZj8HA9LzPA+aIevf2G2RL5SOyCz3gj5jA8mNSZPDRSC6kMK0yF2Rk4kgn4o0ebK95IvUEPj9BCOmya8a8nzF/ry/ZzMujWjEsOJ2WUeNmPqU0QBOn46+lMMvMaXMHzU25d/RphxH8WjLyn/2bm/vDqMN2PfO+s4+RhsahDSKfUaTVMOcxu9sbzBAF6PtHkZDD6VobAeN7QQoRXPooP1eoj100dG6eCy6Dt0+Rns+StsY7aPU920SAaOVqMbDb9hGI7iD40sc2yU6xQHad+CWGcF25qf4Eo0OPTQ69O0DQDA6+RCfZRjgnQT2ISDYPkcEo0vV6X4HoyvYcW/DEQYZ3TsxBc4+gNZY2Xb2tbOesx1n37qYN85+dHbgbOjspYvpWrU2GnEQugL77ej8/3dQTaBwUKh0411tpFGuCwETBJQVy4nQNHIVqEJSqZVMMwg7gOk8U1qgTRaK6RyLnyg9Pep9zaWsgWqZa6hSUQ3lOq3dc/iKrGtkyfNFDUx4Dl8ns0hX9Z5EltcTyHk9Rf7Ej0Zb7ue8bdBn6s7YFuu+Lcr9qLxl5e9RrWyz8i+oyu+i8tEW5aqA23fDBQXgvtm7H1279QYV9D3w3+98cB/BrdWW8kMUlw+M2nHu3L+tS5fqMyRa5WHvE7WcwFRierAYVYsppuqp2MW6F/y2SneIpNvep2vdKl3rIenaWRyk+/YHpNsfbavH4P3nL+IPEvTzTmlK78V28B4BRgQHFBXWjp9oC/iJiuyAp0ICimgJ6LGcAJ0qCuCJqIB9R1e212Np2ayO1WWHOhGYHepQY1CyBiqba9hSSW43ieYVuZWw7yrmC/KiCk14ZtZCk3Uqpd1jCc2NmMIt7LEy0oNdHOzupqb1FQ==&amp;a=VcvLDQAhCIThXjh7cNHlUQux/zbk39sm5gswY5VoyBDNZk14wZr9wDc5UDEqTuCrCdZQ2MDf5JZUkiBNzqjfOxc=">Statue Park (go fast)</a> by ft029 and <a href="https://ethannp.github.io/dangerous-penpa-edit/docs/index.html#m=solve&amp;p=vVVtb9s2EP7uX8ERaGPViuuXJEvkKEOSJdsAN92WDF0gGAEt0TZRSdRIKrVluL+9d5QSW7HXbh820DqfHt6bjvdI+q+cKe4ewuofux23C6vXO7bXQQd/T+tOmJh75HImQ0kuWAqLNIdiOjOavM+NQ05FMiVahX6IJmNJtFnE3N+LhM5itvBSmfI9AkIpqfy9LG+HLH1kus2i6OqRp2YotOGw3aSJzDWP5KeUvupdNrnjny3B3KIPiYy4z9vj3BiZ+n7nB4qGDzGfGOqVusKq6OCRKTIH04xN+Z/7VTI5mWhuhmANoRfV7n19905msJmItFP++d0OPwI1zRO/M5hI1cTQAnRxCnVlUqSmHfN0amYD0Wo5SzFpPuGBGL1+DTdmkfG2SCM+f1/btBvOd/5+11liRr8539/cnjtv3vRazUUNXCA4gCzocQrCWRKsE28HBMsUg9VqhVVm4dwH13TeOoAnyMKFvVu0DtAdLF+BwVnPeW6vztWEhbw5x/aUzwylbRifwrXf/6pD69nhLSQEh8W3HCDmpsvZ1833rfnKGUQyzBOYnPaUm6uYo3qx+CVqUjN+yNNIUgdaDhP18927oU/t6NKvOimYurpTOel0sPf2zD3PzUwqj4CThGlOmNKueztjESdaJpyEPI41TDgxM07GkqmoTc7JVMk8I3JCNFpGlVWSa0NglBLCiOKhYek05kQqUjKy5pin266p/JY7NGrMYUzTSITMcG2r0qIAs4nVm1VU8HrK4FRJzYwZIh+5ilmmiTDrcoAoJJSpYSJFLqNzIhWvsmk4IISQ6wRCsDhuu++vr90JizVvBNXLZNQIaJe6tAdXl44+F7efA0rd7qixLH73lsWDF4xWbvHHWj1eq7feEuSNt6T9DvUC2gdHG8al/S4CBxvACQJHa+DQujxbQKCuDXdv5bWVPSvvIJtb9K380cqOlYdWDq3NlZUfrLy08sDKI2vzPdbbaAS98rWK6/CfadifoYAW3sAJs5hCX6iW8RMXqGdUzl0LlX2nnm1wCcVSZjF410AxTeGYdm4hyKPpLvuxVNGL6J/gTGtAOXE1KBQqjOuQUaJ2z+Ar8KmGJMzMasCYGfjk6JnI6pGAsPUCDKuXyD6yF9ngxfhUzqpB59ReQR9m8QRn7sQrzt3iJ5iMjal0i99g6N55xQ3OXDmfePDWqAfq1Vr9YPdRuyzBbgf0m0oH9R7UsisPwxL51QuKO5dingvrjSp8+R6h0LIOvA9lMoZHCehGM8odnUfyY17ZdnGSz8tyb3eU21+Xi2pZLmo7ysWn+I/LPRmtymPo/CvC/w9snVdMk2pNto05AngH4QDdSawK3+IW4FsswoTbRAJ0B5cAfUkngLYZBeAWqQD7G15h1JfUwqpesgtTbREMU21yLBg1vgA=&amp;a=VcrBCcAwDEPRXXTOIbWrtJ3FZP814n8smAfCv0oxNRQB2eQFzHzha+4HmCY2iRfwMMma2qN+tw8=">Choco Banana (Lights Out)</a> by lemononmars. I hope this inspires people to create some cool things!</p>]]></content><author><name>Ethan</name></author><category term="Other" /><category term="Coding" /><summary type="html"><![CDATA[⚠️⚠️⚠️]]></summary></entry><entry><title type="html">Logic Puzzle 38 - Slitherlink</title><link href="/chopped-puzzles/2023/10/31/puzzle38.html" rel="alternate" type="text/html" title="Logic Puzzle 38 - Slitherlink" /><published>2023-10-31T13:00:00+00:00</published><updated>2023-10-31T13:00:00+00:00</updated><id>/chopped-puzzles/2023/10/31/puzzle38</id><content type="html" xml:base="/chopped-puzzles/2023/10/31/puzzle38.html"><![CDATA[<p>I’m not sure if this should be Logic Puzzle 14, 22, or 38, but I guess it makes the most sense that this is the 38th logic puzzle posted on my blog.</p>
+
+<p>Happy trick-or-treating :) 🍬🎃</p>
+
+<p><a href="https://puzz.link/p?slither/19/17/12622723713676b7cbbg87c3bgdcg3ab7dbdg77d873371275aw22630bg2dg3b777dg3583a782bq88885787731187b13022032dx33813723cd328c87bg7bcb2b31832bdb76cg7cbb573276dd" target="_blank">puzz.link</a></p>
+
+<p><img src="https://puzz.link/pv?frame=5&amp;slither/19/17/12622723713676b7cbbg87c3bgdcg3ab7dbdg77d873371275aw22630bg2dg3b777dg3583a782bq88885787731187b13022032dx33813723cd328c87bg7bcb2b31832bdb76cg7cbb573276dd" alt="Preview" /></p>]]></content><author><name>Ethan</name></author><category term="Logic Puzzle" /><summary type="html"><![CDATA[I’m not sure if this should be Logic Puzzle 14, 22, or 38, but I guess it makes the most sense that this is the 38th logic puzzle posted on my blog.]]></summary></entry><entry><title type="html">Logic Set (Halloween 2023 - Day 8)</title><link href="/chopped-puzzles/2023/10/31/halloween8.html" rel="alternate" type="text/html" title="Logic Set (Halloween 2023 - Day 8)" /><published>2023-10-31T12:00:00+00:00</published><updated>2023-10-31T12:00:00+00:00</updated><id>/chopped-puzzles/2023/10/31/halloween8</id><content type="html" xml:base="/chopped-puzzles/2023/10/31/halloween8.html"><![CDATA[<p>Happy Halloween!</p>
+
+<p><a href="https://puzz.link/p?akari/10/10/r6ao7ag8bo7d6ao7.i8bo8.r" target="_blank">Akari (📅 10/31) - puzz.link</a></p>
+
+<p><a href="https://puzz.link/p?slither/10/10/al71031202ddjbcjaa1adcjbbjcdja01130137ak3b" target="_blank">Slitherlink (📅 10/31) - puzz.link</a></p>
+
+<p><a href="https://puzz.link/p?nurikabe/10/10/1k1g6h3zhap3n1q1g1zg6g6g6k" target="_blank">Nurikabe (📅 10/31) - puzz.link</a></p>
+
+<p><img src="https://puzz.link/pv?frame=5&amp;akari/10/10/r6ao7ag8bo7d6ao7.i8bo8.r" alt="Preview" /></p>
+
+<p><img src="https://puzz.link/pv?frame=5&amp;slither/10/10/al71031202ddjbcjaa1adcjbbjcdja01130137ak3b" alt="Preview" /></p>
+
+<p><img src="https://puzz.link/pv?frame=5&amp;nurikabe/10/10/1k1g6h3zhap3n1q1g1zg6g6g6k" alt="Preview" /></p>]]></content><author><name>Ethan</name></author><category term="Logic Puzzle" /><summary type="html"><![CDATA[Happy Halloween!]]></summary></entry><entry><title type="html">Penpa+ and Snake</title><link href="/chopped-puzzles/2023/10/30/snake.html" rel="alternate" type="text/html" title="Penpa+ and Snake" /><published>2023-10-30T14:00:00+00:00</published><updated>2023-10-30T14:00:00+00:00</updated><id>/chopped-puzzles/2023/10/30/snake</id><content type="html" xml:base="/chopped-puzzles/2023/10/30/snake.html"><![CDATA[<p>⚠️⚠️⚠️</p>
+
+<p>Penpa+ has disabled external scripts so these tricks no longer work on the default Penpa+. <a href="https://ethannp.github.io/dangerous-penpa-edit/docs/index.html">I now host my own penpa fork, dangerous-penpa-edit</a> that will not be maintained but allows external scripts. <b>Links on this page will send you to my fork, dangerous-penpa-edit</b>.</p>
+<hr />
+
+<p><a href="https://swaroopg92.github.io/penpa-edit/">Penpa+</a> is a web application meant to create paper-and-pencils puzzles. It’s known for being more customizable than other puzzle-setting web apps such as <a href="https://puzz.link/">puzz.link</a> as you are not limited to creating puzzles in certain genres.</p>
+
+<p>With all this freedom, I was recently introduced to the fact that when writing the description/rules of the puzzle, Penpa+ does not sanitize the content before inserting it into the DOM. This means that the site can be prone to an <a href="https://en.wikipedia.org/wiki/Cross-site_scripting">XSS attack</a>, allowing people to inject external scripts into what seems to be a trusted application. This of course can be used for harm, but I decided to have a little fun with it.</p>
+
+<p><a href="https://ethannp.github.io/dangerous-penpa-edit/docs/index.html#m=solve&amp;p=zVRdT9swFH3vr7AsVQLJrIlDN3ARUwd0L4V9wIRQVCE3dUnUJM5sh5Yg+O1cO51C2u5x0uTm6Pr4NvfY1yf6d8mVIBRGcEQ84tvhH7qn79nfn3GTmFQwNER0RdEl108lGZYmloohQk6SueKZQFpFXTrCsTGFZr1eUVbVhzTJF73ic8Z1XPYoDM/DKBbJQ2xs7pGdavOUCjsrpE5MInPGp1qmpREDZRMZ6nvdgZEFO6CeV6wGRvFcz6XKmItSbsQepHTpGfK6+4MoTYqDgpuYoSTXwuwFvl+sUEABaN9iEBSr/QE+PenV0k+79Pxkljw2UmqJDAWuoM2E5VPybTQic55q0QnXRzPphNjHBFN4fDx5rcavjggmnefqJ3uu7lk4eSHVryY8asJr9gx45dB3eOdw5JA6vIFUUgUOzx16DvsOxy7nwuGtwzOHhw4/upxPtlinE9rWkj7xQTOow3DG97pUcx4JzNyuiOPyMpsK1aJSKQtoJeQZVa655CGXSjQrG+li9tAm6/ypVLONly95mraI+l62qChRUdqmjEpac66UXLaYDO5Ai5hyA/dYx0nRfpPITVuA4W2JfME3qmXNnl86eIXdEwZwJY5t549ZNSTVV9a6HKT6Aa2/ZNW17XyIMbTCdtAlUQgvmvDWrdvorCZ9D+KrdQzhHYT1qdyPa+Y7C6sbgm2dL+7fNsSZfAShtQ47j2Q2ha2E+N1h1Cu6nMlFuc717fUc1nLHO+QGjVwb1nJttEOu3cU/lns8eanb4P1vtlutnSbVTrMBvcNvwO401prf8hbwWy6yBbeNBOwOLwG7aSegth0F5JapgPuLr+xbN61lVW26y5baMpgt9d5j8MmCD3u0QDqWS6RKqIfY/hs=&amp;a=RcqxCQBACEPRXaxTXOScJrj/GnpeIaR4hC8lZLxggIYnP18B56iPUZe7LA==" target="_blank">2x2 Masyu</a></p>
+
+<p><a href="https://ethannp.github.io/dangerous-penpa-edit/docs/index.html#m=solve&amp;p=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" target="_blank">Snake</a></p>
+
+<h1 id="how-do-you-inject-a-script-into-penpa">How do you inject a script into Penpa?</h1>
+<p>With the lack of sanitation, it’s quite simple; insert this line of code into the title (or any other) field:</p>
+
+<p><code>&lt;img src=x style='display:none' onerror='alert("hi")'</code></p>
+
+<p>Penpa+ attempts to find the file at <code>/x</code> and fails to do so, so it runs the JS code in the <code>onerror</code> event. You can replace the <code>alert("hi")</code> with whatever code you want.</p>
+
+<p>Note that if you put this in the rules field, it’ll trigger when you first load the page, and then every time you “show rules”.</p>
+
+<h1 id="how-did-you-create-snake">How did you create Snake?</h1>
+<p>I don’t fully understand the source code of Penpa+, as I read just enough to understand what I needed to make Snake. Essentially, there is a <code>pu</code> object which represents the grid. We read and modify its attributes <code>pu_a</code> and <code>pu_q</code> which represent the elements (like surface shading, edges, etc.) of the answer (player input) and question (what is set before) respectively. I stuck some simple snake code to modify these attributes in a <code>setInterval()</code> function, then repeatedly calling <code>pu.redraw()</code> gives us animation. There are a lot of details like managing the indices / setting colors or style and whatnot that you’ll have to look into deeper if you want to create anything fancy.</p>
+
+<p>The minimized code is all available if you inspect the source code of the title. The specific snake code is nothing special, just something I threw together for the sake of demonstration. There is theoretically an end, but I did not bother to check if my win detection works (though no answer checking unfortunately).</p>]]></content><author><name>Ethan</name></author><category term="Other" /><category term="Coding" /><summary type="html"><![CDATA[⚠️⚠️⚠️]]></summary></entry><entry><title type="html">Logic Set (Halloween 2023 - Day 7)</title><link href="/chopped-puzzles/2023/10/30/halloween7.html" rel="alternate" type="text/html" title="Logic Set (Halloween 2023 - Day 7)" /><published>2023-10-30T12:00:00+00:00</published><updated>2023-10-30T12:00:00+00:00</updated><id>/chopped-puzzles/2023/10/30/halloween7</id><content type="html" xml:base="/chopped-puzzles/2023/10/30/halloween7.html"><![CDATA[<p><a href="https://puzz.link/p?yajilin/b/10/10/0.2.21200.0.23210.0.42i0.b0.b0.c0.b0.0.a0.0.b0.i0.d0.d0.a0.e0.a0.b0.a0.a0.b0.c0.a0.c0.i" target="_blank">Yajilin (🎃) - puzz.link</a></p>
+
+<p><a href="https://puzz.link/p?mashu/10/10/41100042202io00000l1c010aa01110000" target="_blank">Masyu (🎃) - puzz.link</a></p>
+
+<p><a href="https://puzz.link/p?dbchoco/10/10/o3ufee003ohho3s7fu7szzy8m1q1g1x" target="_blank">Double Choco (🎃) - puzz.link</a></p>
+
+<p><img src="https://puzz.link/pv?frame=5&amp;yajilin/b/10/10/0.2.21200.0.23210.0.42i0.b0.b0.c0.b0.0.a0.0.b0.i0.d0.d0.a0.e0.a0.b0.a0.a0.b0.c0.a0.c0.i" alt="Preview" /></p>
+
+<p><img src="https://puzz.link/pv?frame=5&amp;mashu/10/10/41100042202io00000l1c010aa01110000" alt="Preview" /></p>
+
+<p><img src="https://puzz.link/pv?frame=5&amp;dbchoco/10/10/o3ufee003ohho3s7fu7szzy8m1q1g1x" alt="Preview" /></p>]]></content><author><name>Ethan</name></author><category term="Logic Puzzle" /><summary type="html"><![CDATA[Yajilin (🎃) - puzz.link]]></summary></entry><entry><title type="html">Logic Set (Halloween 2023 - Day 6)</title><link href="/chopped-puzzles/2023/10/29/halloween6.html" rel="alternate" type="text/html" title="Logic Set (Halloween 2023 - Day 6)" /><published>2023-10-29T12:00:00+00:00</published><updated>2023-10-29T12:00:00+00:00</updated><id>/chopped-puzzles/2023/10/29/halloween6</id><content type="html" xml:base="/chopped-puzzles/2023/10/29/halloween6.html"><![CDATA[<p><a href="https://puzz.link/p?mashu/10/10/000i900b6a5b6k3g6j6j02310000020i00" target="_blank">Masyu (😱) - puzz.link</a></p>
+
+<p><a href="https://puzz.link/p?dbchoco/10/10/7sc6o3mdmdo3dm5k44ntj6zk4r1h3h2n4w1t5n" target="_blank">Akari (💀) - puzz.link</a></p>
+
+<p><a href="https://puzz.link/p?slither/10/10/ag3dga2c2bgcjdc1d5b313c2c213b6c1dacjdg3a3cbg2bgd" target="_blank">Slitherlink (👁️) - puzz.link</a></p>
+
+<p><img src="https://puzz.link/pv?frame=5&amp;mashu/10/10/000i900b6a5b6k3g6j6j02310000020i00" alt="Preview" /></p>
+
+<p><img src="https://puzz.link/pv?frame=5&amp;dbchoco/10/10/7sc6o3mdmdo3dm5k44ntj6zk4r1h3h2n4w1t5n" alt="Preview" /></p>
+
+<p><img src="https://puzz.link/pv?frame=5&amp;slither/10/10/ag3dga2c2bgcjdc1d5b313c2c213b6c1dacjdg3a3cbg2bgd" alt="Preview" /></p>]]></content><author><name>Ethan</name></author><category term="Logic Puzzle" /><summary type="html"><![CDATA[Masyu (😱) - puzz.link]]></summary></entry><entry><title type="html">Logic Set (Halloween 2023 - Day 5)</title><link href="/chopped-puzzles/2023/10/28/halloween5.html" rel="alternate" type="text/html" title="Logic Set (Halloween 2023 - Day 5)" /><published>2023-10-28T12:00:00+00:00</published><updated>2023-10-28T12:00:00+00:00</updated><id>/chopped-puzzles/2023/10/28/halloween5</id><content type="html" xml:base="/chopped-puzzles/2023/10/28/halloween5.html"><![CDATA[<p><a href="https://puzz.link/p?akari/10/10/q1.j1ag.c..v2cs.g.h.g.h11......j1..bq" target="_blank">Akari (🎃) - puzz.link</a></p>
+
+<p><a href="https://puzz.link/p?dbchoco/10/10/gv2c1ebr7hjouss8m1j3n41g6k1h3i1g3zo5o4l1i3h21r3k" target="_blank">Double Choco (🦇) - puzz.link</a></p>
+
+<p><a href="https://puzz.link/p?slither/10/10/12cg2267cg6631bg578bg5732cg20dh12bgbg6cgdg7bgbg8dk10bg" target="_blank">Slitherlink (🙀) - puzz.link</a></p>
+
+<p><img src="https://puzz.link/pv?frame=5&amp;akari/10/10/q1.j1ag.c..v2cs.g.h.g.h11......j1..bq" alt="Preview" /></p>
+
+<p><img src="https://puzz.link/pv?frame=5&amp;dbchoco/10/10/gv2c1ebr7hjouss8m1j3n41g6k1h3i1g3zo5o4l1i3h21r3k" alt="Preview" /></p>
+
+<p><img src="https://puzz.link/pv?frame=5&amp;slither/10/10/12cg2267cg6631bg578bg5732cg20dh12bgbg6cgdg7bgbg8dk10bga" alt="Preview" /></p>]]></content><author><name>Ethan</name></author><category term="Logic Puzzle" /><summary type="html"><![CDATA[Akari (🎃) - puzz.link]]></summary></entry><entry><title type="html">Logic Set (Halloween 2023 - Day 4)</title><link href="/chopped-puzzles/2023/10/27/halloween4.html" rel="alternate" type="text/html" title="Logic Set (Halloween 2023 - Day 4)" /><published>2023-10-27T12:00:00+00:00</published><updated>2023-10-27T12:00:00+00:00</updated><id>/chopped-puzzles/2023/10/27/halloween4</id><content type="html" xml:base="/chopped-puzzles/2023/10/27/halloween4.html"><![CDATA[<p><a href="https://puzz.link/p?simpleloop/10/10/s7o7ijijo1hhjjo1u0vo" target="_blank">Simple Loop (👻) - puzz.link</a></p>
+
+<p><a href="https://puzz.link/p?slither/10/10/h3d3ddca2ddd71302121chddg332c2213cbdc826agdjb73317d" target="_blank">Slitherlink (🕷️) - puzz.link</a></p>
+
+<p><a href="https://puzz.link/p?dbchoco/10/10/4fc1th3p7s7sjohng6u421i6i7p3y2n54v1n5v5h3g3g" target="_blank">Double Choco (🍬) - puzz.link</a></p>
+
+<p><img src="https://puzz.link/pv?frame=5&amp;simpleloop/10/10/s7o7ijijo1hhjjo1u0vo" alt="Preview" /></p>
+
+<p><img src="https://puzz.link/pv?frame=5&amp;slither/10/10/h3d3ddca2ddd71302121chddg332c2213cbdc826agdjb73317d" alt="Preview" /></p>
+
+<p><img src="https://puzz.link/pv?frame=5&amp;dbchoco/10/10/4fc1th3p7s7sjohng6u421i6i7p3y2n54v1n5v5h3g3g" alt="Preview" /></p>]]></content><author><name>Ethan</name></author><category term="Logic Puzzle" /><summary type="html"><![CDATA[Simple Loop (👻) - puzz.link]]></summary></entry><entry><title type="html">Logic Set (Halloween 2023 - Day 3)</title><link href="/chopped-puzzles/2023/10/26/halloween3.html" rel="alternate" type="text/html" title="Logic Set (Halloween 2023 - Day 3)" /><published>2023-10-26T12:00:00+00:00</published><updated>2023-10-26T12:00:00+00:00</updated><id>/chopped-puzzles/2023/10/26/halloween3</id><content type="html" xml:base="/chopped-puzzles/2023/10/26/halloween3.html"><![CDATA[<p><a href="https://puzz.link/p?simpleloop/10/10/00446c00447s0300igi4" target="_blank">Simple Loop (🎃) - puzz.link</a></p>
+
+<p><a href="https://puzz.link/p?nurikabe/10/10/6g6g6g1h7zzz2y6j6g6g6" target="_blank">Nurikabe (😈) - puzz.link</a></p>
+
+<p><a href="https://puzz.link/p?yajilin/b/10/10/0.0.0.g0.a0.c0.220.a0.0.d0.a0.a0.a22c0.0.0.g22p120.0.h41i0.h0.0.42d" target="_blank">Yajilin (☠️) - puzz.link</a></p>
+
+<p><img src="https://puzz.link/pv?frame=5&amp;simpleloop/10/10/00446c00447s0300igi4" alt="Preview" /></p>
+
+<p><img src="https://puzz.link/pv?frame=5&amp;nurikabe/10/10/6g6g6g1h7zzz2y6j6g6g6" alt="Preview" /></p>
+
+<p><img src="https://puzz.link/pv?frame=5&amp;yajilin/b/10/10/0.0.0.g0.a0.c0.220.a0.0.d0.a0.a0.a22c0.0.0.g22p120.0.h41i0.h0.0.42d" alt="Preview" /></p>]]></content><author><name>Ethan</name></author><category term="Logic Puzzle" /><summary type="html"><![CDATA[Simple Loop (🎃) - puzz.link]]></summary></entry></feed>
